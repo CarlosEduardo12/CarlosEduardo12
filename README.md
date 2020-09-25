@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Carlos Eduardo from Brazil (🇧🇷). I've been working as Back-End Developer since 2018 and currently I'm Developer at [CM Tecnologia](https://https://cmtecnologia.com.br/). I'm passionate about Saas Project, so I've created some projects as [DoisClique](https://github.com/Doisclique) and I've always loved to produce a lot of content during my career.
+My name is Carlos Eduardo from Brazil (🇧🇷). I've been working as Back-End Developer since 2018 and currently I'm Developer at [Zup IT Innovation](https://www.zup.com.br/). I'm passionate about Saas Project, so I've created some projects as [DoisClique](https://github.com/Doisclique) and I've always loved to produce a lot of content during my career.
 
 In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and cell leader of the central bastist church in Belo Horizonte.
 
