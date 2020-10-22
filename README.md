@@ -9,3 +9,8 @@ Would you like to find me?
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/carlos_e_93)](https://twitter.com/carlos_e_93)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-junior-a63876166/0)](https://www.linkedin.com/in/carlos-eduardo-junior-a63876166/0)
 
+
+[![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carloseduardo12)](https://github.com/anuraghazra/carloseduardo12)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo12&layout=compact)](https://github.com/carloseduardo12/carloseduardo12)
+
