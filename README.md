@@ -12,5 +12,5 @@ Would you like to find me?
 
 [![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carloseduardo12)](https://github.com/anuraghazra/carloseduardo12)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo12&layout=compact)](https://github.com/carloseduardo12/carloseduardo12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo12&hide=python&layout=compact)](https://github.com/carloseduardo12/carloseduardo12)
 
